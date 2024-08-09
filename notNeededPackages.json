@@ -1781,6 +1781,10 @@
             "libraryName": "fast-json-stable-stringify",
             "asOfVersion": "2.1.0"
         },
+        "fast-shuffle": {
+            "libraryName": "fast-shuffle",
+            "asOfVersion": "6.1.0"
+        },
         "fast-simplex-noise": {
             "libraryName": "fast-simplex-noise",
             "asOfVersion": "3.0.0"
@@ -1824,6 +1828,10 @@
         "fb": {
             "libraryName": "@types/facebook-js-sdk",
             "asOfVersion": "0.0.28"
+        },
+        "fcostarodrigo__walk": {
+            "libraryName": "@fcostarodrigo/walk",
+            "asOfVersion": "6.0.0"
         },
         "fecha": {
             "libraryName": "fecha",
@@ -3552,6 +3560,10 @@
         "mobx-task": {
             "libraryName": "mobx-task",
             "asOfVersion": "2.0.0"
+        },
+        "mock-property": {
+            "libraryName": "mock-property",
+            "asOfVersion": "1.1.0"
         },
         "mockdate": {
             "libraryName": "mockdate",
@@ -5887,6 +5899,10 @@
             "libraryName": "stream-to-string",
             "asOfVersion": "1.2.0"
         },
+        "streamtest": {
+            "libraryName": "streamtest",
+            "asOfVersion": "3.0.0"
+        },
         "string-argv": {
             "libraryName": "string-argv",
             "asOfVersion": "0.3.0"
@@ -6194,6 +6210,10 @@
         "tstl": {
             "libraryName": "tstl",
             "asOfVersion": "1.5.7"
+        },
+        "ttf2woff2": {
+            "libraryName": "ttf2woff2",
+            "asOfVersion": "6.0.0"
         },
         "tus-js-client": {
             "libraryName": "tus-js-client",
