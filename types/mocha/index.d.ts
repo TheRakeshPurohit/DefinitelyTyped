@@ -771,6 +771,8 @@ declare namespace Mocha {
             epilogue(): void;
 
             done?(failures: number, fn?: (failures: number) => void): void;
+
+            static consoleLog: (...data: any[]) => void;
         }
 
         namespace Base {
